@@ -1,35 +1,33 @@
-# My Awesome Ren'Py Template
+# Darling Ohayo
 
-This project is a work in progress, featuring Ren'Py code snippets that I frequently find myself using for different projects. If you'd like to see more effects, please feel free to create a GitHub issue.
+Ce projet est un travail en cours, avec des extraits de code Ren'Py que j'utilise fréquemment pour différents projets. Si vous souhaitez voir plus d'effets, n'hésitez pas à créer un problème GitHub.
 
-## Demo (See the full list of features below)
-
-### Dynamic main menu and feather icons in the UI text
+### Menu principal dynamique et icônes de plumes dans le texte de l'interface utilisateur.
 <img src="https://github.com/RuolinZheng08/renpy-awesome-template/blob/4fa894ff261999ec5e0d25009cf107f7d9617502/demo/main_menu.gif" width=600>
 
-### Expression composition screen and blinking sprites
+### Écran de composition de l'expression et sprites clignotants.
 <img src="https://github.com/RuolinZheng08/renpy-awesome-template/blob/4fa894ff261999ec5e0d25009cf107f7d9617502/demo/expressions.gif" width=600>
 
-### Lightning modes (day, dusk, night, dim, sepia)
+### Modes d'éclairage (jour, crépuscule, nuit, faible, sépia)
 <img src="https://github.com/RuolinZheng08/renpy-awesome-template/blob/4fa894ff261999ec5e0d25009cf107f7d9617502/demo/lighting.gif" width=600>
 
-### Parallax
+### Parallaxe
 <img src="https://github.com/RuolinZheng08/renpy-awesome-template/blob/4fa894ff261999ec5e0d25009cf107f7d9617502/demo/parallax.gif" width=600>
 
-### Panning background with seamless tiles
+### Fond panoramique avec tuiles sans couture
 <img src="https://github.com/RuolinZheng08/renpy-awesome-template/blob/4fa894ff261999ec5e0d25009cf107f7d9617502/demo/pool.gif" width=600>
 
-## Feature List
-Here is a list of features showcased in this project:
-- Blinking sprites
-- Expression composition screen
-- Lightning modes (day, dusk, night, dim, sepia)
-- Feather icons in the UI text
-- Parallax BGs and CGs
-- Eye-opening and closing transitions
-- Additive blend mode
+## Liste des fonctionnalités
+Voici une liste des fonctionnalités présentées dans ce projet :
+- Sprites clignotants
+- Écran de composition des expressions
+- Modes d'éclairage (jour, crépuscule, nuit, faible, sépia)
+- Icônes de plumes dans le texte de l'interface utilisateur
+- BGs et CGs de parallaxe
+- Transitions d'ouverture et de fermeture des yeux
+- Mode de fusion additif
 
 ## TODO
-- [ ] Particle effects (rain, snow, bubbles, etc.)
-- [ ] Accessibility tools
-- [ ] Advanced ATL
+- Effets de particules (pluie, neige, bulles, etc.)
+- Outils d'accessibilité
+- [ ] ATL avancé
